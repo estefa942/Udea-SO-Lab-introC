@@ -1,5 +1,7 @@
 # Actividades de entrega de los laboratorios
 
+Actividad realizada por Deiry Sofia Navas Muriel y Estefany Muriel Cano.
+
 ## Pasos previos
 
 Inicialmente antes de empezar este laboratorio haga un **fork**. Luego descarguelo trabajelo localmente y luego actualice su repositorio con la solución. El enlace de este sera el enviado como solución del laboratorio.
